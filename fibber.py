@@ -34,6 +34,7 @@ def fibonacci(counter):
         sum_2 = c + d
         c = d
         d = sum_2
+        print(sum_2)
     return sum_2
 
 
